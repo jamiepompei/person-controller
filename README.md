@@ -4,7 +4,7 @@ This repository provides a starter project for a CRUD application using Spring B
 
 
 
-##Endpoints:
+<strong>Endpoints:</strong>
 
 - `POST /people` - create a new person
   - Response: `201 Created`
