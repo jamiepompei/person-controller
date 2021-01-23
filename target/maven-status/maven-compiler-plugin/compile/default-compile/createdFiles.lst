@@ -1,0 +1,6 @@
+io/zipcoder/crudapp/repository/PersonRepository.class
+io/zipcoder/crudapp/controller/PersonController.class
+io/zipcoder/crudapp/CRUDApplication.class
+io/zipcoder/crudapp/service/PersonServiceImpl.class
+io/zipcoder/crudapp/entity/Person.class
+io/zipcoder/crudapp/service/PersonService.class
